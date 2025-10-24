@@ -1,44 +1,45 @@
-<!-- HEADER -->
+<!-- Typing banner / header -->
 <div align="center">
-  <img src="./assets/banner.png" alt="Rishi banner" width="900" style="border-radius:16px;"/>
-  <h1>hey, i'm Rishi 👋</h1>
-  <p>AI + systems engineer | building useful tools that ship. Currently pushing <b>Neo-Alexandria</b> to production.</p>
 
-  <!-- Quick badges -->
+  <!-- animated typing title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=36&duration=2200&pause=700&color=8AB4F8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=hey%2C+i'm+Rishi+%F0%9F%91%8B;AI+%2B+systems+engineer+building+useful+tools+that+ship" alt="typing intro" />
+
+  <br/>
+
+  <sub><b>Now:</b> pushing <b>Neo-Alexandria</b> to production — hybrid search · knowledge graph · explainable recs.</sub>
+  <br/><br/>
+
+  <!-- badges -->
   <a href="https://github.com/Rishi-Mad?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rishi-Mad?style=flat&label=Followers" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/Rishi-Mad?label=Followers&style=flat" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rishi-Mad&style=flat&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Rishi-Mad&style=flat&color=blue" />
   <a href="./assets/Rishi_SWE_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-blue" alt="resume"/>
+    <img src="https://img.shields.io/badge/Resume-PDF-0A66C2?logo=readthedocs&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-f43f5e?logo=gmail&labelColor=0f172a" alt="email"/>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Contact-f44336?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0ea5e9?logo=linkedin&labelColor=0f172a" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_SLUG/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <!-- Portfolio placeholder (uncomment when live)
-  <a href="https://YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-22c55e?logo=google-chrome&labelColor=0f172a" alt="portfolio"/>
-  </a> -->
+
 </div>
 
 ---
 
 ### 🧭 About me
-- 🧰 **Builder**: I care about clean APIs, explainability, and fast UX that helps people do work.
-- 🎯 **Now**: **Neo-Alexandria** — hybrid search + KG + explainable recommendations, with admin & analytics.
-- 🧪 **Prev/Current**: SWE @ **Fisker IT** (React/TS/Python site + Vite HMR), **Autonomy Engineer** (CV + ESDF mapping), **EPICS** microcontrollers, **SoC Extension Tech** research (circuits, digital design; **AFTx07** algo/accelerator benchmarking).
+- 🧰 **Builder**: clean APIs, explainability, and fast UX that helps people *do work*.
+- 🧪 **Experience**: SWE @ **Fisker IT** (React/TS/Python + Vite HMR), **Autonomy Engineer** (CV + NVBlox ESDF), **EPICS** microcontrollers, **SoC Extension Tech** researcher (circuits, digital design; **AFTx07** accelerator benchmarking).
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 1) Neo-Alexandria · *in progress*
-Advanced Knowledge Management API: async ingestion (HTML/PDF/text), quality scoring & subject normalization, **hybrid search** (keyword + vectors + FTSS), graph-aware ranking, **explainable recs**, mind-map visualization, and an **admin console** for tagging/QA/analytics.  
+Advanced Knowledge Management API: async ingestion (HTML/PDF/text), quality scoring + subject normalization, **hybrid search** (keyword + vectors + FTSS), graph-aware ranking, **explainable recommendations**, mind-map visualization, and an **admin console** for tagging/QA/analytics.  
 **Stack**: Python · Flask/FastAPI · SQLite/FTSS · Transformers · OpenCV · React + Vite  
-**Links**: 🔗 Repo: [Neo-Alexandria](https://github.com/YOUR_NEO_REPO) · 🎥 Demo: YOUR_DEMO · 📘 Docs: YOUR_DOCS
+**Links**: 🔗 Repo: <!-- update when public --> <https://github.com/Rishi-Mad> · 🎥 Demo: <!-- link when ready --> · 📘 Docs: <!-- link when ready -->
 
 <details>
   <summary><b>Highlights</b></summary>
@@ -54,7 +55,7 @@ Advanced Knowledge Management API: async ingestion (HTML/PDF/text), quality scor
 ### 2) AI Study Assistant · *finished*
 T5 summarization, BLIP visual Q&A, flashcards (spaced repetition), **adaptive quizzes**, and analytics dashboard.  
 **Stack**: Flask API · React + TypeScript + Tailwind · T5/BLIP · SQLite · Vite  
-**Links**: 🔗 Repo: [AI Study Assistant](https://github.com/YOUR_STUDY_ASSISTANT_REPO) · 🌐 Live: YOUR_URL
+**Links**: 🔗 Repo: <!-- update if public --> <https://github.com/Rishi-Mad>
 
 <details>
   <summary><b>Features</b></summary>
@@ -69,7 +70,7 @@ T5 summarization, BLIP visual Q&A, flashcards (spaced repetition), **adaptive qu
 ### 3) Fit Friend · *finished*
 AI form coach: MediaPipe pose detection, multi-exercise analysis (squats, curls, push-ups, planks), form scoring, key-frame capture, downloadable reports.  
 **Stack**: Python · MediaPipe · OpenCV · React  
-**Links**: 🔗 Repo: [Fit Friend](https://github.com/YOUR_FIT_FRIEND_REPO) · 🎥 Demo: YOUR_VIDEO
+**Links**: 🔗 Repo: <!-- update if public --> <https://github.com/Rishi-Mad>
 
 <details>
   <summary><b>How it works</b></summary>
@@ -82,22 +83,31 @@ AI form coach: MediaPipe pose detection, multi-exercise analysis (squats, curls,
 
 ---
 
-## 🛠 Languages, Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=py,cpp,ts,react,tailwind,flask,fastapi,sqlite,postgres,docker,git,opencv,tensorflow,linux,kicad,vite&perline=9" />
+## 🛠️ Languages, Tools & Frameworks
+
+<!-- icon grid (tight, clean) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,ts,react,tailwind,flask,fastapi,vite,sqlite,postgres,docker,git,opencv,tensorflow,pytorch,linux,mediapipe&perline=9" />
 </p>
 
-<!-- Optional shields row to mirror the example -->
+<!-- concise shields (resume-aligned) -->
 <p>
-  <img src="https://img.shields.io/badge/Python-3.8+-yellow?logo=python" />
-  <img src="https://img.shields.io/badge/TypeScript-5.x-blue?logo=typescript" />
-  <img src="https://img.shields.io/badge/React-19-blue?logo=react" />
-  <img src="https://img.shields.io/badge/Flask-API-black?logo=flask" />
-  <img src="https://img.shields.io/badge/FastAPI-async-009688?logo=fastapi" />
-  <img src="https://img.shields.io/badge/Vite-7.x-8A2BE2?logo=vite" />
-  <img src="https://img.shields.io/badge/SQLite-FTSS-003B57?logo=sqlite" />
-  <img src="https://img.shields.io/badge/OpenCV-CV-5C3EE8?logo=opencv" />
-  <img src="https://img.shields.io/badge/Transformers-T5/BLIP-ff69b4" />
+  <img src="https://img.shields.io/badge/Python-3.8%2B-ffd343?logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/C/C%2B%2B-systems-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-API-000000?logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-async-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-7.x-8A2BE2?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-FTSS-003B57?logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-DB-4169E1?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-CV-5C3EE8?logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Transformers-T5%2FBLIP-ff69b4" />
+  <img src="https://img.shields.io/badge/MediaPipe-Pose-34A853?logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-DevOps-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-PCB-314CB0?logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/SystemVerilog-Digital%20Design-7B1FA2" />
 </p>
 
 ---
@@ -112,22 +122,18 @@ AI form coach: MediaPipe pose detection, multi-exercise analysis (squats, curls,
 
 ---
 
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+    <img alt="github contribution snake animation" src="./assets/contribution-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 📬 Contact
 - ✉️ Email: rishimadipalli@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rishi-madipalli-123a89289/
+- 💼 LinkedIn: https://www.linkedin.com/in/rishi-madipalli-123a89289/ 
 
-
-<!--
-**Rishi-Mad/Rishi-Mad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>If a project helps you, a ⭐ means a lot.</sub>
