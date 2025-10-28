@@ -1,31 +1,47 @@
-name: generate-snake
+name: Generate Snake Animation
 
 on:
+  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"   # update once a day
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+  
+  # Run on every push to main branch
   push:
-    branches: [ "main" ]
+    branches:
+      - main
+  
+  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      - name: Checkout profile repo
-        uses: actions/checkout@v4
-
-      - name: Generate snake svg
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # Generate snake animation from GitHub contribution graph
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Rishi-Mad
           outputs: |
-            assets/contribution-snake.svg
-            assets/contribution-snake-dark.svg?palette=github-dark
-
-      - name: Commit files
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark,#F8E8EE,#F4D4E1,#E6A8C2,#9B7EBD,#7D6B9D
+      
+      # Move generated files to assets directory
+      - name: Move snake files to assets
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/contribution-snake*.svg
-          git commit -m "chore: update snake" || echo "no changes"
-          git push
+          mkdir -p assets
+          mv dist/snake.svg assets/snake.svg
+          mv dist/snake-dark.svg assets/snake-dark.svg
+      
+      # Commit and push the generated files
+      - name: Push snake animation to repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update snake animation"
+          file_pattern: "assets/snake*.svg"
