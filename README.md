@@ -167,26 +167,9 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-### 🔥 424 Contributions in the Last Year
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Mad&theme=github_dark" alt="GitHub Profile Summary" />
-
-</div>
-
-<br />
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishi-Mad&show_icons=true&hide_title=true&rank_icon=github&title_color=4A90E2&icon_color=5B9BD5&text_color=4A90E2&bg_color=F0F8FF&border_color=B8D4E8&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Mad&layout=compact&hide_title=true&langs_count=8&title_color=4A90E2&text_color=5B9BD5&bg_color=F0F8FF&border_color=B8D4E8&hide_border=false" alt="Top languages" />
-</div>
-
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Contributions
 
 <div align="center">
   
@@ -195,7 +178,7 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 </div>
 
 <div align="center">
-  <sub><i>Snake animation will appear after the first GitHub Actions run</i></sub>
+  <sub><i>🐍 Watch the snake eat my contributions!</i></sub>
 </div>
 
 ---
