@@ -29,19 +29,16 @@ jobs:
         with:
           github_user_name: Rishi-Mad
           outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark,#f5f5f5,#cccccc,#999999,#666666,#333333
-      
-      # Move generated files to assets directory
-      - name: Move snake files to assets
-        run: |
-          mkdir -p assets
-          mv dist/snake.svg assets/snake.svg
-          mv dist/snake-dark.svg assets/snake-dark.svg
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       # Commit and push the generated files
       - name: Push snake animation to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update snake animation"
-          file_pattern: "assets/snake*.svg"
+          branch: output
+          create_branch: true
+          file_pattern: "dist/*.svg"
