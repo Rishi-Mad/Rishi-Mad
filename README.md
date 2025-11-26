@@ -170,7 +170,11 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Mad&theme=github_dark" alt="GitHub Profile Summary" />
+  
+### 🔥 424 Contributions in the Last Year
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rishi-Mad&theme=github_dark" alt="GitHub Profile Summary" />
+
 </div>
 
 <br />
