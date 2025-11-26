@@ -1,20 +1,3 @@
-<style>
-  /* Hover animation for skill icons */
-  img[alt*="Languages"],
-  img[alt*="Tools and Frameworks"],
-  img[alt*="AI/ML"] {
-    transition: transform 0.3s ease, filter 0.3s ease;
-  }
-  
-  img[alt*="Languages"]:hover,
-  img[alt*="Tools and Frameworks"]:hover,
-  img[alt*="AI/ML"]:hover {
-    transform: scale(1.1) translateY(-5px);
-    filter: drop-shadow(0 5px 15px rgba(0, 0, 0, 0.3));
-  }
-</style>
-
-<!-- Typing banner / header -->
 <div align="center">
 
   <!-- animated typing title with neutral blue theme -->
@@ -50,9 +33,9 @@
 
 - 🧰 **Builder**: I focus on clean APIs, explainability, and fast UX that helps people *do work*
 - 💼 **Fisker IT**: Built features with **React/TypeScript/Python** and optimized dev experience with **Vite HMR**
-- � **EPICS*m*: Developed embedded systems with **microcontrollers** for real-world engineering projects
+- 🔧 **EPICS**: Developed embedded systems with **microcontrollers** for real-world engineering projects
 - 🧪 **SoC Extension Tech**: Research in **circuits and digital design**, benchmarked **AFTx07 accelerator**
-- 🎯 **Current Focus**: Building RISC-V simulators and exploring systems programming
+- 🎯 **Current Focus**: Building RISC-V simulators and AI-powered knowledge management tools
 
 ---
 
