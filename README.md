@@ -170,12 +170,14 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishi-Mad&show_icons=true&hide_title=true&rank_icon=github&title_color=000000&icon_color=333333&text_color=000000&bg_color=FFFFFF&border_color=cccccc" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Mad&layout=compact&hide_title=true&langs_count=8&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=cccccc" alt="Top languages" />
-  
-  <br />
-  
-  <img height="180" src="https://streak-stats.demolab.com/?user=Rishi-Mad&ring=666666&fire=333333&currStreakLabel=000000&sideLabels=000000&dates=333333&background=FFFFFF&border=cccccc&stroke=cccccc" alt="Contribution streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishi-Mad&show_icons=true&hide_title=true&rank_icon=github&title_color=000000&icon_color=333333&text_color=000000&bg_color=FFFFFF&border_color=cccccc&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Mad&layout=compact&hide_title=true&langs_count=8&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=cccccc&hide_border=false" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishi-Mad&theme=default&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&ring=666666&fire=333333&currStreakLabel=000000&sideLabels=000000&dates=333333&background=FFFFFF&border=cccccc&stroke=cccccc" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -183,11 +185,13 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishi-Mad/Rishi-Mad/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishi-Mad/Rishi-Mad/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Rishi-Mad/Rishi-Mad/output/github-contribution-grid-snake.svg" />
-  </picture>
+  
+![snake gif](https://raw.githubusercontent.com/Rishi-Mad/Rishi-Mad/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+  <sub><i>Snake animation will appear after the first GitHub Actions run</i></sub>
 </div>
 
 ---
