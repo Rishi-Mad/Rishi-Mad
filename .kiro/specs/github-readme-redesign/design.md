@@ -2,46 +2,42 @@
 
 ## Overview
 
-This design document outlines the comprehensive redesign of Rishi's GitHub profile README with a creative rose pink and purple aesthetic. The redesign will create a visually cohesive, engaging profile that balances professional presentation with creative flair.
+This design document outlines the comprehensive redesign of Rishi's GitHub profile README with a professional black and white aesthetic. The redesign will create a visually cohesive, engaging profile that emphasizes professionalism and clarity.
 
 ### Design Goals
 
-1. Create a distinctive rose pink and purple visual identity
+1. Create a clean, professional monochromatic visual identity
 2. Organize technical skills in a scannable, categorized format
 3. Showcase featured projects with clear visual hierarchy
 4. Include engaging interactive elements (snake game, animations)
-5. Maintain professional credibility while being creative
-6. Ensure readability in both light and dark GitHub themes
+5. Maintain strong professional credibility with a minimalist design
+6. Ensure excellent readability in both light and dark GitHub themes
 
 ## Architecture
 
 ### Color Palette
 
 **Primary Colors:**
-- Rose Pink Primary: `#E6A8C2` (Muted Rose)
-- Rose Pink Light: `#F4D4E1` (Soft Blush)
-- Rose Pink Pale: `#F8E8EE` (Pale Rose)
-- Purple Primary: `#9B7EBD` (Soft Purple)
-- Purple Dark: `#7D6B9D` (Dusty Purple)
-- Purple Light: `#C5B8D8` (Lavender)
+- Pure Black: `#000000` (Darkest elements)
+- Dark Gray: `#1a1a1a` (Dark backgrounds)
+- Medium Dark: `#333333` (Primary text)
+- Medium Gray: `#666666` (Secondary text)
+- Light Gray: `#999999` (Tertiary elements)
+- Lighter Gray: `#cccccc` (Borders, dividers)
+- Off White: `#f5f5f5` (Light backgrounds)
+- Pure White: `#FFFFFF` (Brightest elements)
 
 **Accent Colors (Use Sparingly):**
-- Rose Pink Accent: `#D88CA6` (for key highlights only)
-- Purple Accent: `#8B6FA8` (for important elements only)
-
-**Supporting Colors:**
-- White: `#FFFFFF`
-- Dark Background: `#1a1a1a`
-- Text Primary: `#333333`
-- Text Secondary: `#666666`
+- Charcoal: `#2d2d2d` (for subtle emphasis)
+- Silver: `#c0c0c0` (for highlights)
 
 **Usage Guidelines:**
-- Headers and primary elements: Use muted rose pink and soft purple
-- Badges: Predominantly use light, subtle tones (F4D4E1, C5B8D8)
-- Accents and icons: Reserve brighter tones (D88CA6, 8B6FA8) for emphasis only
-- Backgrounds: Light backgrounds with very subtle colored accents
-- Avoid vibrant hot pink (#FF69B4) - use muted alternatives
-- Keep overall aesthetic soft and professional with subtle color presence
+- Headers and primary elements: Use black (#000000) or dark gray (#1a1a1a)
+- Badges: Use grayscale tones with black/white/gray combinations
+- Accents and icons: Use medium grays (#666666, #999999) for subtle emphasis
+- Backgrounds: White or off-white for light mode, dark gray for dark mode
+- Text: High contrast black on white or white on black
+- Keep overall aesthetic clean, minimal, and professional
 
 ### Section Structure
 

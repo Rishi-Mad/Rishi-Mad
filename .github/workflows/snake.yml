@@ -30,7 +30,7 @@ jobs:
           github_user_name: Rishi-Mad
           outputs: |
             dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark,#F8E8EE,#F4D4E1,#E6A8C2,#9B7EBD,#7D6B9D
+            dist/snake-dark.svg?palette=github-dark,#f5f5f5,#cccccc,#999999,#666666,#333333
       
       # Move generated files to assets directory
       - name: Move snake files to assets

@@ -235,6 +235,7 @@
 
 
 
+
   - View README on GitHub profile in light mode
   - Test README rendering in GitHub dark mode
   - Verify all external images and badges load correctly
