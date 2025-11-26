@@ -1,25 +1,25 @@
 <div align="center">
 
-  <!-- animated typing title with neutral blue theme -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2200&pause=700&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=hey%2C+i'm+Rishi+%F0%9F%91%8B;AI+%2B+systems+engineer+building+useful+tools" alt="typing intro" />
+  <!-- animated typing title with monochrome gradient -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2200&pause=700&color=000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=hey%2C+i'm+Rishi+%F0%9F%91%8B;AI+%2B+systems+engineer+building+useful+tools" alt="typing intro" />
 
   <br />
 
-  <!-- status banner with neutral blue theme -->
-  <sub><b style="color: #4A90E2;">Now:</b> building <b style="color: #5B9BD5;">neo-alexandria</b> — AI-powered knowledge management & RISC-V CPU simulator</sub>
+  <!-- status banner with monochrome theme -->
+  <sub><b style="color: #000000;">Now:</b> building <b style="color: #333333;">neo-alexandria</b> — AI-powered knowledge management & RISC-V CPU simulator</sub>
   
   <br /><br />
 
-  <!-- badges with neutral blue theme -->
+  <!-- badges with monochrome theme -->
   <a href="https://github.com/Rishi-Mad?tab=followers">
-    <img src="https://img.shields.io/github/followers/Rishi-Mad?label=Followers&style=flat&color=4A90E2&labelColor=E8F4F8" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Rishi-Mad?label=Followers&style=flat&color=000000&labelColor=f5f5f5" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Rishi-Mad&style=flat&color=5B9BD5" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rishi-Mad&style=flat&color=666666" alt="Profile views" />
   <a href="mailto:rishimadipalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-5B9BD5?style=flat&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Email-Contact-000000?style=flat&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
   <a href="https://www.linkedin.com/in/rishi-madipalli-123a89289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-4A90E2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-666666?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 
 </div>
@@ -38,7 +38,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. neo-alexandria ![Status](https://img.shields.io/badge/status-in%20progress-5B9BD5?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-4A90E2?style=flat)
+### 1. neo-alexandria ![Status](https://img.shields.io/badge/status-in%20progress-666666?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-999999?style=flat)
 
 AI-powered knowledge management system that helps you organize, search, and connect your notes and research with intelligent insights.
 
@@ -58,7 +58,7 @@ AI-powered knowledge management system that helps you organize, search, and conn
 
 ---
 
-### 2. Study-Pal ![Status](https://img.shields.io/badge/status-finished-6FA8DC?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-4A90E2?style=flat)
+### 2. Study-Pal ![Status](https://img.shields.io/badge/status-finished-000000?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-999999?style=flat)
 
 AI-powered study assistant with smart summarization, interactive flashcards, visual Q&A, and adaptive learning. Built with React, Flask, and NLP models.
 
@@ -79,7 +79,7 @@ AI-powered study assistant with smart summarization, interactive flashcards, vis
 
 ---
 
-### 3. RISC-V CPU Simulator ![Status](https://img.shields.io/badge/status-in%20progress-5B9BD5?style=flat) ![Visibility](https://img.shields.io/badge/visibility-private-7B8794?style=flat)
+### 3. RISC-V CPU Simulator ![Status](https://img.shields.io/badge/status-in%20progress-666666?style=flat) ![Visibility](https://img.shields.io/badge/visibility-private-cccccc?style=flat)
 
 Low-level CPU simulator implementing RISC-V architecture with support for custom instructions and pipeline visualization.
 
@@ -96,7 +96,7 @@ Low-level CPU simulator implementing RISC-V architecture with support for custom
 
 ---
 
-### 4. Fit-Friend ![Status](https://img.shields.io/badge/status-finished-6FA8DC?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-4A90E2?style=flat)
+### 4. Fit-Friend ![Status](https://img.shields.io/badge/status-finished-000000?style=flat) ![Visibility](https://img.shields.io/badge/visibility-public-999999?style=flat)
 
 AI-powered fitness form analysis using computer vision and machine learning. Real-time pose detection for multiple exercises with form scoring and personalized feedback.
 
@@ -125,13 +125,13 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 
 ### 💻 Languages
 <div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </div>
 
 </td>
@@ -139,13 +139,13 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 
 ### 🔧 Frameworks & Tools
 <div align="center">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/React-666666?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Flask-666666?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/Node.js-666666?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Vite-666666?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-666666?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/Docker-666666?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-666666?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 </td>
@@ -153,12 +153,12 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 
 ### 🤖 AI/ML & Data
 <div align="center">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/TensorFlow-999999?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-999999?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-999999?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/HuggingFace-999999?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+<img src="https://img.shields.io/badge/Pandas-999999?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-999999?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </div>
 
 </td>
@@ -170,12 +170,12 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rishi-Mad&show_icons=true&hide_title=true&rank_icon=github&title_color=4A90E2&icon_color=5B9BD5&text_color=4A90E2&bg_color=F0F8FF&border_color=B8D4E8" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Mad&layout=compact&hide_title=true&langs_count=8&title_color=4A90E2&text_color=5B9BD5&bg_color=F0F8FF&border_color=B8D4E8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rishi-Mad&show_icons=true&hide_title=true&rank_icon=github&title_color=000000&icon_color=333333&text_color=000000&bg_color=FFFFFF&border_color=cccccc" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-Mad&layout=compact&hide_title=true&langs_count=8&title_color=000000&text_color=000000&bg_color=FFFFFF&border_color=cccccc" alt="Top languages" />
   
   <br />
   
-  <img height="160" src="https://streak-stats.demolab.com/?user=Rishi-Mad&ring=5B9BD5&fire=4A90E2&currStreakLabel=4A90E2&sideLabels=5B9BD5&dates=6FA8DC&background=F0F8FF&border=B8D4E8&stroke=B8D4E8" alt="Contribution streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Rishi-Mad&ring=666666&fire=333333&currStreakLabel=000000&sideLabels=000000&dates=333333&background=FFFFFF&border=cccccc&stroke=cccccc" alt="Contribution streak" />
 </div>
 
 ---
@@ -196,10 +196,10 @@ AI-powered fitness form analysis using computer vision and machine learning. Rea
 
 <div align="center">
   <a href="mailto:rishimadipalli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishimadipalli@gmail.com-4A90E2?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-rishimadipalli@gmail.com-000000?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/rishi-madipalli-123a89289/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishi_Madipalli-5B9BD5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Rishi_Madipalli-666666?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
