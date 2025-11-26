@@ -15,9 +15,6 @@
     <img src="https://img.shields.io/github/followers/Rishi-Mad?label=Followers&style=flat&color=4A90E2&labelColor=E8F4F8" alt="GitHub followers" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Rishi-Mad&style=flat&color=5B9BD5" alt="Profile views" />
-  <a href="./assets/Rishi_SWE_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-6FA8DC?style=flat&logo=readthedocs&logoColor=white" alt="Resume PDF" />
-  </a>
   <a href="mailto:rishimadipalli@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-5B9BD5?style=flat&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
