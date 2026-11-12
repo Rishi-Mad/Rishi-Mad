@@ -3,13 +3,6 @@
   <!-- animated typing title with neutral blue theme -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=40&duration=2200&pause=700&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=hey%2C+i'm+Rishi+%F0%9F%91%8B;AI+%2B+systems+engineer+building+useful+tools" alt="typing intro" />
 
-  <br />
-
-  <!-- status banner with neutral blue theme -->
-  <sub><b style="color: #4A90E2;">Now:</b> building <b style="color: #5B9BD5;">neo-alexandria</b> — AI-powered knowledge management & RISC-V CPU simulator</sub>
-  
-  <br /><br />
-
   <!-- badges with neutral blue theme -->
   <a href="https://github.com/Rishi-Mad?tab=followers">
     <img src="https://img.shields.io/github/followers/Rishi-Mad?label=Followers&style=flat&color=4A90E2&labelColor=E8F4F8" alt="GitHub followers" />
